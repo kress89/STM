@@ -1,0 +1,1 @@
+java -jar ./LegendaryAttempt-0.0.1.jar
